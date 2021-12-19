@@ -1,0 +1,7 @@
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\bin\Debug\Pascals1.exe.config
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\bin\Debug\Pascals1.exe
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\bin\Debug\Pascals1.pdb
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\obj\Debug\Pascals1.csprojAssemblyReference.cache
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\obj\Debug\Pascals1.csproj.CoreCompileInputs.cache
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\obj\Debug\Pascals1.exe
+C:\Users\jude2\Source\Repos\Pascals1\Pascals1\obj\Debug\Pascals1.pdb
